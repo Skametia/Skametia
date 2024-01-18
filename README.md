@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadhana Rathour
-- I am currently working as a FrontEnd Developer at "Qurilo IT Solution".
-- I like dabbling with different technologies, by creating projects 
+- 👩‍💻 I am currently working as a FrontEnd Developer at "Qurilo IT Solution".
+- ⚙️I like dabbling with different technologies, by creating projects 
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skametia@gmail.com
