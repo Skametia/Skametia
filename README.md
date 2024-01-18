@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skametia@gmail.com
-- ⚡ Fun fact: I think im funny🌻🌻
+- ⚡ Fun fact: I think im funny🌻
 
 <!---
 Skametia/Skametia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
