@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sadhana Rathour
-- 👩‍💻 I am currently working as a FrontEnd Developer at "Qurilo IT Solution".
+- 👩‍💻 I am currently working as a FrontEnd Developer at "Greps Ai".
 - ⚙️I like dabbling with different technologies, by creating projects 
 - 🌱 I’m currently learning Backend.
 - 💞️ I’m looking to collaborate on ...
